@@ -2,10 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Probability-invariant RWNN baseline (Graph Classification) — Scheme A (flat multi-file version).
-
-This is a mechanical split of the original monolithic script into multiple .py files.
-Core logic is unchanged.
+Probability-invariant RWNN baseline (Graph Classification)
 """
 
 from __future__ import annotations
