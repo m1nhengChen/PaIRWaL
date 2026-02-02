@@ -1,5 +1,9 @@
 # PaIRWaL
 Probability-Invariant Random-Walk Learning framework for gyral folding networks classification.
+
+Code for the data preprocessing part can be found in ./data_procssing, including the generation of gyral folding network-based cortical similarity and the extraction of 3HG fingerprint.
+
+Run the following command to train the model:
 ```
 python run_schemeA.py \
   --in-npy tcsva_5ring_3hg.npy \
